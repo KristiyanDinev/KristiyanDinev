@@ -17,7 +17,7 @@
 <h3>📜Stats</h3>
 </summary>
 <ul>
-    <p><img src="https://komarev.com/ghpvc/?username=kristiyandinev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
+    
 </ul>
 </details>
 
