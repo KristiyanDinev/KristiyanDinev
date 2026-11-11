@@ -1,81 +1,72 @@
+<div align="center">
+  <h1>Hi there, I'm Kristiyan Dinev 👋</h1>
+  <p><strong>Software Engineer / Developer</strong> focused on building clean, scalable, and user-centric applications.</p>
 
-</div align="center">
+  <p>
+    <a href="https://linkedin.com/in/kristiyandinev" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/KristiyanDinev">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
-<h1>Hi 👋, Welcome to my GitHub</h1>
-<h3>Software Developer trying to help the world</h3>
+---
 
-<p>🌱Learning new stuff and I am ready to take on challanges and be in a team.</p>
-<p>👨‍💻I am looking for a job.</p>
+### 👨‍💻 About Me
 
+- 🔭 Currently working on: **Beautiful IDE** *(Closed-source application — public release & download link coming soon)*
+- 💼 Professional experience in: **Full-stack development / Backend systems / Software Engineering**
+- 🌱 Constantly learning: **System Architecture, Modern Frameworks, & Best Practices**
+- 💬 Ask me about: **C#, .NET, ASP.NET, Java, Spring Boot, CyberSecurity, Networking**
+- ⚡ Fun fact: **I like to watch videos**
 
+---
 
-<details close>
-<summary>
-<h3>💡 Quotes</h3>
-</summary>
-<ul>
-    <p>It's not only about coding. It's about bringing ideas to life.</p>
-    <p>Yesterday is history, Tomorrow is a mystery, but Today is a gift.</p>
-    <p>Be yourself and nobody else.</p>
-    <p>Anger makes you smaller, while forgiveness forces you to grow beyond what you were.</p>
-    <p>The more errors you have the less you will have.</p>
-</ul>
-</details>
+### 🛠️ Tech Stack & Tools
 
+#### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-<details close>
-<summary>
-<h3>🖥️Skills</h3>
-</summary>
-<ul>
-    <li>Java</li>
-    <li>Spring Boot</li>
-    <li>Spring Framework</li>
-    <li>JPA</li>
-    <li>JUnit</li>
-    <li>JDBC</li>
-    <li>Hibernate ORM</li>
-    <li>C#</li>
-    <li>ASP.NET Entity Framework Core</li>
-    <li>ASP.NET Identity</li>
-    <li>Python</li>
-    <li>Flask</li>
-    <li>Ngrok</li>
-    <li>Nginx</li>
-    <li>WebSockets</li>
-    <li>Network Programming</li>
-    <li>RabbitMQ</li>
-    <li>Bootstrap</li>
-    <li>JavaScript</li>
-    <li>CI/CD (GitHub Actions)</li>
-    <li>Maven</li>
-    <li>Gradle</li>
-    <li>PostgreSQL</li>
-    <li>MongoDB</li>
-    <li>SQLite</li>
-    <li>SQL Server (MSSQL)</li>
-    <li>MySQL</li>
-    <li>Git</li>
-    <li>Docker</li>
-    <li>Linux</li>
-    <li>Windows</li>
-</ul>
-</details>
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
+#### Infrastructure & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<details close>
-<summary>
-<h3>📞Contact Me</h3>
-</summary>
-<ul>
-        <p>Discord: _rooty_</p>
-<a href="https://www.hackerrank.com/kriskata" target="_blank" rel="noreferrer">
-  <img align="center" src="https://img.shields.io/badge/HackerRank-%23F05033.svg?style=for-the-badge&logo=hackerrank&logoColor=green&color=black" alt="https://www.hackerrank.com/kriskata" /</a>
-    
-<a href="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" target="_blank" rel="noreferrer">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-%23F05033.svg?style=for-the-badge&logo=linkedin&logoColor=blue&color=black" alt="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" /></a>
+---
 
-</ul>
-</details>
+### 🚀 Featured Projects
 
+| Project | Tech Stack | Highlights | Link |
+| :--- | :--- | :--- | :--- |
+| **SoftWario** *(Closed Source)* | **Java / Flutter** | **Beautiful IDE** | *Download Coming Soon* |
+| **[RestaurantSystem](https://github.com/KristiyanDinev/RestaurantSystem)** | **C# / .NET / ASP.NET / MVC / PostgreSQL / RabbitMQ** | End-to-end restaurant management system handling orders, menu items, and operations. | [Source Code](https://github.com/KristiyanDinev/RestaurantSystem) |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KristiyanDinev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kristiyan's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanDinev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KristiyanDinev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
