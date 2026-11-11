@@ -4,22 +4,9 @@
 <h1>Hi 👋, Welcome to my GitHub</h1>
 <h3>Software Developer trying to help the world</h3>
 
-</br>
-</br>
-</br>
-<p>🔭I would like to expend my knowledge and be better at what I am doing.</p>
 <p>🌱Learning new stuff and I am ready to take on challanges and be in a team.</p>
 <p>👨‍💻I am looking for a job.</p>
 
-</div>
-<details close >
-<summary>
-<h3>📜Stats</h3>
-</summary>
-<ul>
-    
-</ul>
-</details>
 
 
 <details close>
