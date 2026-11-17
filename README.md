@@ -23,7 +23,7 @@
 - 💼 Professional experience in: **Full-stack development / Backend systems / Software Engineering**
 - 🌱 Constantly learning: **System Architecture, Modern Frameworks, & Best Practices**
 - 💬 Ask me about: **C#, .NET, ASP.NET, Java, Spring Boot, CyberSecurity, Networking**
-- ⚡ Fun fact: **I like to watch videos**
+- ⚡ Fun fact: **I love to think outside of the box**
 
 ---
 
